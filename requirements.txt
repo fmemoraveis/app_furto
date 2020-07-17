@@ -3,3 +3,12 @@ pandas==1.0.5
 streamlit==0.62.0
 scipy==1.4.1
 sklearn
+matplotlib
+geometry
+geopandas
+geopy
+seaborn
+scipy
+pydeck
+pickle
+plotly
