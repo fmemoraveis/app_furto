@@ -6,7 +6,7 @@ sklearn
 matplotlib
 geometry
 geopandas
-geopy
+geopy==1.22.0
 seaborn
-pydeck
-plotly
+pydeck==0.4.0b2
+plotly==4.4.1
