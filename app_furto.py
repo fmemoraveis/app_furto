@@ -31,7 +31,7 @@ df_clusters = pd.read_csv('coordenadas_furtos.csv')
 # load model
 model = pickle.load(open('model.pkl','rb'))
 
-model_coord = pickle.load(open('model_coord.pkl','rb'))
+#model_coord = pickle.load(open('model_coord.pkl','rb'))
 
 # apresentar números com 0 casas decimais
 pd.set_option('display.float_format', lambda x: '%.0f' % x)
