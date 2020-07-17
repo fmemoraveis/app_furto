@@ -8,7 +8,6 @@ geometry
 geopandas
 geopy
 seaborn
-scipy
 pydeck
 pickle
 plotly
