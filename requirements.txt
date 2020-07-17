@@ -9,5 +9,4 @@ geopandas
 geopy
 seaborn
 pydeck
-pickle
 plotly
